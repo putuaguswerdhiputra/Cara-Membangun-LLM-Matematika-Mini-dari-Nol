@@ -6,7 +6,7 @@
 I Putu Agus Werdhi Putra
 
 **Asisten AI:**
-DeepSeek (MiniGPT)
+DeepSeek
 
 **Sumber Daya Komputasi:**
 Kaggle Notebook, 2× NVIDIA T4 GPU (16 GB VRAM)
